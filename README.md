@@ -50,3 +50,13 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/joaopfsiqueira/joaopfsiqueira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <div>
+   ## Latest Blog Posts📩
+<!-- BLOG-POST-LIST:START -->
+- [GitHub in VSCODE](https://joaopfsiqueira.notion.site/Configurando-GitHub-no-VSCode-f3a582d79a464d4fbeb6d8555bf217f8)
+- [Express with NodeJs](https://joaopfsiqueira.notion.site/Estrutura-de-pastas-Express-946ca1967ada44509df11bdc4f169a97)
+- [Docker Experiences](https://github.com/joaopfsiqueira/docker-experiences)
+- [Linux Commands](https://github.com/joaopfsiqueira/linux)
+<!-- BLOG-POST-LIST:END -->
+  </div>
