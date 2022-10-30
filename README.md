@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/joaopfsiqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopfsiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopfsiqueira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopfsiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopfsiqueira&layout=compact&langs_count=7&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
+
     
 </div>
   
-<div style="display: inline_block"> <br><br><br>
+<div style="display: inline_block"> <br><br>
 
   ### Some things I work on or focus on studying: <br>
   
