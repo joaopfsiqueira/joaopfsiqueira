@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block"> <br><br>
 
-  ### Some things I work on or focus on studying: <br>
+  ### Languages and Tools I work on or focus on studying: <br>
   
   <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
