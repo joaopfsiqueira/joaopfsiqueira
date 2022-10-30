@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block"> <br><br>
 
-  ### Languages and Tools I work on or focus on studying: <br>
-  
+  ### Languages and Tools I work on or focus on studying: 
+  ##
   <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Joao-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
@@ -41,8 +41,10 @@ Here are some ideas to get you started:
  
 </div>
     
-  ##
+  <br><br>
  
+ ### Contacts
+  ##
 <div> 
   <a href = "mailto:joaopfsiqueiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopfsiqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
