@@ -1,4 +1,4 @@
-## Hi There! I'm João Siqueira 👋
+# Hi There! I'm João Siqueira 👋
 
 <!--
 **joaopfsiqueira/joaopfsiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +25,7 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block"> <br><br>
 
-  ### Languages and Tools I work on or focus on studying: 
-  ##
+  ## Languages and Tools I work on or focus on studying: 
   <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Joao-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
@@ -43,22 +42,22 @@ Here are some ideas to get you started:
     
   <br><br>
  
- ### Contacts
-  ##
+ ## Contacts
 <div> 
   <a href = "mailto:joaopfsiqueiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopfsiqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/joaopfsiqueira/joaopfsiqueira/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
-  
-  <div>
-   ## Latest Blog Posts📩
-<!-- BLOG-POST-LIST:START -->
+<br><br>  
+
+## Latest Blog Posts📩
 - [GitHub in VSCODE](https://joaopfsiqueira.notion.site/Configurando-GitHub-no-VSCode-f3a582d79a464d4fbeb6d8555bf217f8)
 - [Express with NodeJs](https://joaopfsiqueira.notion.site/Estrutura-de-pastas-Express-946ca1967ada44509df11bdc4f169a97)
 - [Docker Experiences](https://github.com/joaopfsiqueira/docker-experiences)
 - [Linux Commands](https://github.com/joaopfsiqueira/linux)
-<!-- BLOG-POST-LIST:END -->
-  </div>
+
+
+
+ ![Snake animation](https://github.com/joaopfsiqueira/joaopfsiqueira/blob/output/github-contribution-grid-snake.svg)
