@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## Latest Blog Posts📩
 - [GitHub in VSCODE](https://joaopfsiqueira.notion.site/Configurando-GitHub-no-VSCode-f3a582d79a464d4fbeb6d8555bf217f8)
 - [Express with NodeJs](https://joaopfsiqueira.notion.site/Estrutura-de-pastas-Express-946ca1967ada44509df11bdc4f169a97)
-- [Good Practices](https://joaopfsiqueira.notion.site/Boas-pr-ticas-Arquitetura-Node-Js-da2c2371677e4c9d8604f72c914c816e)
+- [Good Practices with NodeJs](https://joaopfsiqueira.notion.site/Boas-pr-ticas-Arquitetura-Node-Js-da2c2371677e4c9d8604f72c914c816e)
 - [Docker Experiences](https://github.com/joaopfsiqueira/docker-experiences)
 - [Linux Commands](https://github.com/joaopfsiqueira/linux)
 
