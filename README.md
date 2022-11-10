@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 <div align="left">
   <a href="https://github.com/joaopfsiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopfsiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&hide=contribs"/>
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 
     
 </div>
--->  
+
 <div style="display: inline_block"> <br><br>
 
   ## Languages and Tools I work on or focus on studying: 
