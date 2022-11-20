@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # “At 12:00 on Monday.”
-    - cron: "0 12 * * 1"
+  schedule: # “24”
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
