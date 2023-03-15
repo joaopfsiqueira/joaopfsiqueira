@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - [Good Practices with NodeJs](https://joaopfsiqueira.notion.site/Boas-pr-ticas-Arquitetura-Node-Js-da2c2371677e4c9d8604f72c914c816e)
 - [Docker Experiences](https://github.com/joaopfsiqueira/docker-experiences)
 - [Linux Commands](https://github.com/joaopfsiqueira/linux)
+- [TypeScript](https://github.com/joaopfsiqueira/typescript-usage)
 
 
 
