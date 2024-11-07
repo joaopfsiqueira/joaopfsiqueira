@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Joao-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img align="center" alt="Joao-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
      <img align="center" alt="Joao-Rabbit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-      <img align="center" alt="Joao-Kafka" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+      <img align="center" alt="Joao-Kafka" height="50" width="60" style="filter: invert(28%) sepia(100%) saturate(2000%) hue-rotate(200deg) brightness(98%) contrast(109%)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
        <img align="center" alt="Joao-Redis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
     <img align="center" alt="Joao-Aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     <img align="center" alt="Joao-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
